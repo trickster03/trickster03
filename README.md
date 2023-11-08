@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranjal Mishra</h1>
-<h3 align="center">A passionate Web Developer and a Deep-Learning enthusiast from India.</h3>
+<h3 align="center">A passionate Web Developer and a Deep-Learning enthusiast based in Republic of Bharat.</h3>
 <img align="right" alt="coding_image" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trickster03" alt="trickster03" /></a> </p>
