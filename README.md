@@ -21,9 +21,10 @@ Distributed messaging across clouds, Temporal-backed workflows, and the observab
 ### Selected projects
 
 <!-- Replace the # links with your repo URLs and pin these three -->
-- **[Distributed Job Queue](#)** — Redis-Streams-backed queue with a FastAPI control plane: at-least-once delivery, retries, dead-letter path.
-- **[Distributed Rate Limiter](#)** — HTTP middleware with token-bucket & sliding-window algorithms; Redis-backed for cross-instance limits, with benchmarks.
-- **[Résumé & Job-Application Pipeline](#)** — discovers postings across Greenhouse / Lever / Ashby, tailors a LaTeX résumé per role, tracks state in ClickHouse.
+- **[llm-gateway](https://github.com/trickster03/llm-gateway)** — OpenAI-compatible gateway for self-hosted models. Streaming, concurrency control, caching, Prometheus metrics.
+- **[floodgate](https://github.com/trickster03/floodgate)** — distributed rate limiter in Go. Rejects over-limit traffic in *205 nanoseconds*. Yes, nanoseconds. Token-bucket + sliding-window, Redis-backed
+- **[distributed-job-queue](https://github.com/trickster03/Distributed-Job-Queue)** — Redis Streams queue with retries, DLQs, idempotency keys and a live dashboard. Loses your job approximately never.
+- **[shashtra](https://github.com/trickster03/Shashtra)** — context-aware conversational AI chatbot
 
 ### Reach me
 
